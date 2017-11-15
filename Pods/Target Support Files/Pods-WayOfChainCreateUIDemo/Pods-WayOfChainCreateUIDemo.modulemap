@@ -1,0 +1,6 @@
+framework module Pods_WayOfChainCreateUIDemo {
+  umbrella header "Pods-WayOfChainCreateUIDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
